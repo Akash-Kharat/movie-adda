@@ -3,7 +3,7 @@ import MovieCard from './components/MovieCard';
 import './App.css';
 // API_KEY: 7be47bd6
 import searchIcon from './search.svg';
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=7be47bd6';
+const API_URL = 'https://www.omdbapi.com/?apikey=7be47bd6';
 
 
 function App() {
